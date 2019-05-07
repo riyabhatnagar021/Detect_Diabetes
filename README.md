@@ -22,3 +22,5 @@
  * SVC
  * Decision Tree Classifier
  * KNeighbour
+ 
+ <b> The project carried out on dataset avaliable on UCI Repository
